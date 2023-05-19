@@ -17,7 +17,7 @@ This repository contains all of the source code used in the course called HTML, 
 
 # Outputs :
 
-* [Module-2] 
-* [Module-3] 
-* [Module-4] 
-* [Module-5] 
+* [Module-2](https://anurag-gupta-lab.github.io/HTML-CSS-JavaScript-assignment/module-2/index.html)
+* [Module-3](https://anurag-gupta-lab.github.io/HTML-CSS-JavaScript-assignment/module-3/index.html)
+* [Module-4](https://anurag-gupta-lab.github.io/HTML-CSS-JavaScript-assignment/module-4/index.html)
+* [Module-5](https://anurag-gupta-lab.github.io/HTML-CSS-JavaScript-assignment/module-5/index.html)
